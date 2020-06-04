@@ -18,6 +18,8 @@
 + [一个合格的中级前端工程师需要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516#heading-4)
 + [诚意满满的前端面试总结](https://juejin.im/post/5e5dc46ce51d4526ce614cc1)
 + [前端性能优化](https://juejin.im/post/5da812ece51d452499484305)
++ [硬核！30 张图解 HTTP 常见的面试题](https://www.cnblogs.com/xiaolincoding/p/12442435.html)
++ [JS装饰器，一篇就够](https://segmentfault.com/a/1190000014495089)
 
 
 
