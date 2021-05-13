@@ -3,6 +3,7 @@
 #### 强力推荐
 
 + [前端基础进阶目录](https://segmentfault.com/a/1190000012646488)
++ [前端波神专栏](https://xiaozhuanlan.com/advance/5896342107)
 + [实践系列](https://github.com/webfansplz/article)
 + [前端小智知识点总结](https://github.com/qq449245884/xiaozhi)
 + [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://www.cnblogs.com/cangqinglang/p/8963557.html )
